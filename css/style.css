@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#welcome-section {
+    height: 100vh;
+}
+
+#projects {
+    height: 100vh;
+}
+
+@media (min-width: 992px) {
+    .project-tile {
+        color: aqua;
+    }
+}
